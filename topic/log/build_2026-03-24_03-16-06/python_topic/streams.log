@@ -1,0 +1,34 @@
+[0.776s] Invoking command in '/home/zqc/ros2_ws/src/portfolio/ROS2/topic/src/python_topic': PYTHONPATH=/home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_topic build --build-base /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/build install --record /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/install.log --single-version-externally-managed install_data
+[1.003s] running egg_info
+[1.004s] creating ../../build/python_topic/python_topic.egg-info
+[1.004s] writing ../../build/python_topic/python_topic.egg-info/PKG-INFO
+[1.004s] writing dependency_links to ../../build/python_topic/python_topic.egg-info/dependency_links.txt
+[1.004s] writing entry points to ../../build/python_topic/python_topic.egg-info/entry_points.txt
+[1.005s] writing requirements to ../../build/python_topic/python_topic.egg-info/requires.txt
+[1.005s] writing top-level names to ../../build/python_topic/python_topic.egg-info/top_level.txt
+[1.005s] writing manifest file '../../build/python_topic/python_topic.egg-info/SOURCES.txt'
+[1.006s] reading manifest file '../../build/python_topic/python_topic.egg-info/SOURCES.txt'
+[1.006s] adding license file 'LICENSE'
+[1.006s] writing manifest file '../../build/python_topic/python_topic.egg-info/SOURCES.txt'
+[1.008s] running build
+[1.008s] running build_py
+[1.008s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/build
+[1.008s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/build/lib
+[1.009s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/build/lib/python_topic
+[1.009s] copying python_topic/__init__.py -> /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/build/lib/python_topic
+[1.010s] running install
+[1.010s] running install_lib
+[1.011s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/lib/python3.10/site-packages/python_topic
+[1.012s] copying /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/build/lib/python_topic/__init__.py -> /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/lib/python3.10/site-packages/python_topic
+[1.012s] byte-compiling /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/lib/python3.10/site-packages/python_topic/__init__.py to __init__.cpython-310.pyc
+[1.013s] running install_data
+[1.014s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/share/ament_index
+[1.014s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/share/ament_index/resource_index
+[1.014s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/share/ament_index/resource_index/packages
+[1.014s] copying resource/python_topic -> /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/share/ament_index/resource_index/packages
+[1.014s] copying package.xml -> /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/share/python_topic
+[1.014s] running install_egg_info
+[1.016s] Copying ../../build/python_topic/python_topic.egg-info to /home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/lib/python3.10/site-packages/python_topic-0.0.0-py3.10.egg-info
+[1.017s] running install_scripts
+[1.035s] writing list of installed files to '/home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/install.log'
+[1.054s] Invoked command in '/home/zqc/ros2_ws/src/portfolio/ROS2/topic/src/python_topic' returned '0': PYTHONPATH=/home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_topic build --build-base /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/build install --record /home/zqc/ros2_ws/src/portfolio/ROS2/topic/build/python_topic/install.log --single-version-externally-managed install_data

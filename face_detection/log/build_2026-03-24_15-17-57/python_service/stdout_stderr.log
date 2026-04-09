@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/python_service/python_service.egg-info/PKG-INFO
+writing dependency_links to ../../build/python_service/python_service.egg-info/dependency_links.txt
+writing entry points to ../../build/python_service/python_service.egg-info/entry_points.txt
+writing requirements to ../../build/python_service/python_service.egg-info/requires.txt
+writing top-level names to ../../build/python_service/python_service.egg-info/top_level.txt
+reading manifest file '../../build/python_service/python_service.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/python_service/python_service.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/python_service/resource
+copying resource/default.jpg -> /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/python_service/resource
+running install_egg_info
+removing '/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/python_service/python_service.egg-info to /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/install.log'

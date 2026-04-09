@@ -1,0 +1,8 @@
+setup.py
+face_detection_interface/__init__.py
+face_detection_interface.egg-info/PKG-INFO
+face_detection_interface.egg-info/SOURCES.txt
+face_detection_interface.egg-info/dependency_links.txt
+face_detection_interface.egg-info/top_level.txt
+face_detection_interface/srv/__init__.py
+face_detection_interface/srv/_face_detector.py

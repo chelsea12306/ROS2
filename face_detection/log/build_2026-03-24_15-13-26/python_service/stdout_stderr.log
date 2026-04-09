@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/python_service/python_service.egg-info
+writing ../../build/python_service/python_service.egg-info/PKG-INFO
+writing dependency_links to ../../build/python_service/python_service.egg-info/dependency_links.txt
+writing entry points to ../../build/python_service/python_service.egg-info/entry_points.txt
+writing requirements to ../../build/python_service/python_service.egg-info/requires.txt
+writing top-level names to ../../build/python_service/python_service.egg-info/top_level.txt
+writing manifest file '../../build/python_service/python_service.egg-info/SOURCES.txt'
+reading manifest file '../../build/python_service/python_service.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/python_service/python_service.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/build
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/build/lib
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/build/lib/python_service
+copying python_service/__init__.py -> /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/build/lib/python_service
+running install
+running install_lib
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service
+copying /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/build/lib/python_service/__init__.py -> /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service
+byte-compiling /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/ament_index
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/ament_index/resource_index
+creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/ament_index/resource_index/packages
+copying resource/python_service -> /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/ament_index/resource_index/packages
+copying package.xml -> /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/python_service
+running install_egg_info
+Copying ../../build/python_service/python_service.egg-info to /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/install.log'

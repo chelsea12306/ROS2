@@ -1,0 +1,5 @@
+  File "/home/zqc/ros2_ws/src/portfolio/ROS2/topic/install/python_topic/lib/python3.10/site-packages/python_topic/pub_node.py", line 22
+    self.get_logger()info(f'published:{msg}')
+                     ^^^^
+SyntaxError: invalid syntax
+

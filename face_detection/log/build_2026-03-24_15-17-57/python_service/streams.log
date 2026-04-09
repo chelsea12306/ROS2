@@ -1,0 +1,23 @@
+[0.826s] Invoking command in '/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/src/python_service': PYTHONPATH=/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_service build --build-base /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/build install --record /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/install.log --single-version-externally-managed install_data
+[1.046s] running egg_info
+[1.047s] writing ../../build/python_service/python_service.egg-info/PKG-INFO
+[1.047s] writing dependency_links to ../../build/python_service/python_service.egg-info/dependency_links.txt
+[1.047s] writing entry points to ../../build/python_service/python_service.egg-info/entry_points.txt
+[1.047s] writing requirements to ../../build/python_service/python_service.egg-info/requires.txt
+[1.047s] writing top-level names to ../../build/python_service/python_service.egg-info/top_level.txt
+[1.049s] reading manifest file '../../build/python_service/python_service.egg-info/SOURCES.txt'
+[1.050s] adding license file 'LICENSE'
+[1.051s] writing manifest file '../../build/python_service/python_service.egg-info/SOURCES.txt'
+[1.051s] running build
+[1.051s] running build_py
+[1.052s] running install
+[1.052s] running install_lib
+[1.054s] running install_data
+[1.054s] creating /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/python_service/resource
+[1.054s] copying resource/default.jpg -> /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/share/python_service/resource
+[1.055s] running install_egg_info
+[1.056s] removing '/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service-0.0.0-py3.10.egg-info' (and everything under it)
+[1.057s] Copying ../../build/python_service/python_service.egg-info to /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages/python_service-0.0.0-py3.10.egg-info
+[1.058s] running install_scripts
+[1.076s] writing list of installed files to '/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/install.log'
+[1.095s] Invoked command in '/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/src/python_service' returned '0': PYTHONPATH=/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/install/python_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_service build --build-base /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/build install --record /home/zqc/ros2_ws/src/portfolio/ROS2/face_detection/build/python_service/install.log --single-version-externally-managed install_data

@@ -1,0 +1,37 @@
+novel1
+Chapter1
+Arrive New Zealand
+Chapter2
+Auckland Airport Terminal
+Chapter3
+Auckland city centre
+Chapter4
+Queen Street
+Chapter5
+Auckland fish market
+Chapter6
+Supermarket
+Chapter7
+Woolworths
+Chapter8
+New World
+Chapter9
+Furein Asian Supermarket
+Chapter10
+Warehouse
+Chapter11
+PBTech
+Chapter12
+ANZ
+Chapter13
+BNZ
+Chapter14
+Hungry
+Chapter15
+Delicious Food
+Chapter16
+Sky tower
+Chapter17
+Albert Park
+Chapter18
+Fountain

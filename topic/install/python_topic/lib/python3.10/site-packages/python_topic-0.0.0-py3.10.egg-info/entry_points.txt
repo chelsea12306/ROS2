@@ -1,0 +1,4 @@
+[console_scripts]
+pub_node = python_topic.pub_node:main
+sub_node = python_topic.sub_node:main
+
